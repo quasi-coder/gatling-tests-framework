@@ -1,0 +1,6 @@
+{
+  "name": "${name}",
+  "role" : "${role}",
+  "emailId" : "${emailId}",
+  "phoneNumber" : "${phoneNumber}"
+}
